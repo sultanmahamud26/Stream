@@ -1,0 +1,43 @@
+{
+  "channels": [
+    {
+      "name": "FIFA World Cup - USA vs Paraguay",
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/a9/FIFA_World_Cup_2026_logo.png",
+      "category": "Football",
+      "servers": [
+        { "label": "FOX 1", "url": "https://your-server/fox1/index.m3u8" },
+        { "label": "TSN 4", "url": "https://your-server/tsn4/index.m3u8" },
+        { "label": "TELEMUNDO", "url": "https://your-server/telemundo/index.m3u8" },
+        { "label": "HINDI", "url": "https://your-server/hindi/index.m3u8" },
+        { "label": "BANGALI", "url": "https://your-server/bangali/index.m3u8" }
+      ]
+    },
+    {
+      "name": "IPL 2026 - Final",
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/84/IPL_2022.png",
+      "category": "Cricket",
+      "servers": [
+        { "label": "Star Sports 1", "url": "https://your-server/ss1/index.m3u8" },
+        { "label": "Star Sports HD", "url": "https://your-server/sshd/index.m3u8" },
+        { "label": "T Sports", "url": "https://your-server/tsports/index.m3u8" }
+      ]
+    },
+    {
+      "name": "WWE SmackDown",
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/b5/WWE_SmackDown_Logo.png",
+      "category": "Wrestling",
+      "servers": [
+        { "label": "Server 1", "url": "https://your-server/wwe1/index.m3u8" },
+        { "label": "Server 2", "url": "https://your-server/wwe2/index.m3u8" }
+      ]
+    },
+    {
+      "name": "Somoy TV",
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/52/Somoy_TV_logo.svg",
+      "category": "News",
+      "servers": [
+        { "label": "Server 1", "url": "https://your-server/somoy/index.m3u8" }
+      ]
+    }
+  ]
+}
