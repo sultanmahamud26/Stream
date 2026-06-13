@@ -1,0 +1,58 @@
+{
+  "ad_gate": {
+    "image": "https://i.imgur.com/your-ad-image.jpg",
+    "link": "https://t.me/your_channel",
+    "wait_seconds": 12,
+    "valid_hours": 12
+  },
+  "banner_ad": {
+    "image": "https://i.imgur.com/your-banner.jpg",
+    "link": "https://t.me/your_channel"
+  },
+  "app": {
+    "latest_version": "2.0",
+    "update_url": "https://github.com/sultanmahamud26/Stream/releases"
+  },
+  "channels": [
+    {
+      "name": "FIFA World Cup - USA vs Paraguay",
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/a9/FIFA_World_Cup_2026_logo.png",
+      "category": "Football",
+      "servers": [
+        { "label": "FOX 1", "url": "ENCRYPTED_URL_HERE" },
+        { "label": "TSN 4", "url": "ENCRYPTED_URL_HERE" },
+        { "label": "BANGLA", "url": "ENCRYPTED_URL_HERE" }
+      ]
+    },
+    {
+      "name": "IPL 2026 Final",
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/84/IPL_2022.png",
+      "category": "Cricket",
+      "servers": [
+        { "label": "Star Sports 1", "url": "ENCRYPTED_URL_HERE" },
+        { "label": "T Sports", "url": "ENCRYPTED_URL_HERE" }
+      ]
+    }
+  ],
+  "schedule": [
+    {
+      "title": "Bangladesh vs India - T20",
+      "category": "Cricket",
+      "time": "2025-07-01T14:00:00",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/84/IPL_2022.png",
+      "servers": [
+        { "label": "T Sports", "url": "ENCRYPTED_URL_HERE" },
+        { "label": "Star Sports", "url": "ENCRYPTED_URL_HERE" }
+      ]
+    },
+    {
+      "title": "Champions League Final",
+      "category": "Football",
+      "time": "2025-06-20T20:00:00",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/a9/FIFA_World_Cup_2026_logo.png",
+      "servers": [
+        { "label": "Sony Ten", "url": "ENCRYPTED_URL_HERE" }
+      ]
+    }
+  ]
+}
