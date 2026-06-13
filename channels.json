@@ -19,154 +19,32 @@
       "image": "https://i.ibb.co/zW5Xn3cD/1781362773259.png",
       "category": "Football",
       "servers": [
-        { "label": "Caze TV", "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8" },
-        { "label": "T-Sports", "url": "http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts" },
-        { "label": "PTV Sports", "url": "https://tvsen5.aynaott.com/PtvSports/index.m3u8" },
-        { "label": "T-Sports 2", "url": "http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123" },
-        { "label": "Bein Sports", "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8" },
-        { "label": "Win Sports", "url": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8" }
-      ]
-    },
-    {
-      "name": "Brazil vs Morocco",
-      "image": "https://i.ibb.co/SDmGwTw5/SDmGwTw5.jpg",
-      "category": "Football",
-      "servers": [
-        { "label": "Caze TV", "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8" },
-        { "label": "T-Sports", "url": "http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts" },
-        { "label": "PTV Sports", "url": "https://tvsen5.aynaott.com/PtvSports/index.m3u8" },
-        { "label": "T-Sports 2", "url": "http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123" },
-        { "label": "Bein Sports", "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8" },
-        { "label": "Win Sports", "url": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8" }
+        {
+          "label": "Caze TV",
+          "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8"
+        },
+        {
+          "label": "T-Sports",
+          "url": "http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts"
+        },
+        {
+          "label": "PTV Sports",
+          "url": "https://tvsen5.aynaott.com/PtvSports/index.m3u8"
+        },
+        {
+          "label": "T-Sports 2",
+          "url": "http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123"
+        },
+        {
+          "label": "Bein Sports",
+          "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
+        },
+        {
+          "label": "Win Sports",
+          "url": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8"
+        }
       ]
     }
   ],
-  "schedule": [
-    {
-      "title": "Haiti vs Scotland",
-      "category": "Football",
-      "time": "2026-06-14T00:30:00",
-      "thumbnail": "https://i.ibb.co/ZzdyG2D9/1781361318659.png",
-      "servers": [
-        { "label": "Caze TV", "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8" },
-        { "label": "T-Sports", "url": "http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts" },
-        { "label": "PTV Sports", "url": "https://tvsen5.aynaott.com/PtvSports/index.m3u8" },
-        { "label": "T-Sports 2", "url": "http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123" },
-        { "label": "Bein Sports", "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8" },
-        { "label": "Win Sports", "url": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8" }
-      ]
-    },
-    {
-      "title": "Australia vs Türkiye",
-      "category": "Football",
-      "time": "2026-06-14T03:30:00",
-      "thumbnail": "https://i.ibb.co/f7fSr5D/1781361322519.png",
-      "servers": [
-        { "label": "Caze TV", "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8" },
-        { "label": "T-Sports", "url": "http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts" },
-        { "label": "PTV Sports", "url": "https://tvsen5.aynaott.com/PtvSports/index.m3u8" },
-        { "label": "T-Sports 2", "url": "http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123" },
-        { "label": "Bein Sports", "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8" },
-        { "label": "Win Sports", "url": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8" }
-      ]
-    },
-    {
-      "title": "Germany vs Curaçao",
-      "category": "Football",
-      "time": "2026-06-14T16:30:00",
-      "thumbnail": "https://i.ibb.co/nqsfY8dX/1781361326687.png",
-      "servers": [
-        { "label": "Caze TV", "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8" },
-        { "label": "T-Sports", "url": "http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts" },
-        { "label": "PTV Sports", "url": "https://tvsen5.aynaott.com/PtvSports/index.m3u8" },
-        { "label": "T-Sports 2", "url": "http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123" },
-        { "label": "Bein Sports", "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8" },
-        { "label": "Win Sports", "url": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8" }
-      ]
-    },
-    {
-      "title": "Netherlands vs Japan",
-      "category": "Football",
-      "time": "2026-06-14T19:30:00",
-      "thumbnail": "https://i.ibb.co/1GdY7b3h/1781361331627.png",
-      "servers": [
-        { "label": "Caze TV", "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8" },
-        { "label": "T-Sports", "url": "http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts" },
-        { "label": "PTV Sports", "url": "https://tvsen5.aynaott.com/PtvSports/index.m3u8" },
-        { "label": "T-Sports 2", "url": "http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123" },
-        { "label": "Bein Sports", "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8" },
-        { "label": "Win Sports", "url": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8" }
-      ]
-    },
-    {
-      "title": "Côte d'Ivoire vs Ecuador",
-      "category": "Football",
-      "time": "2026-06-14T22:30:00",
-      "thumbnail": "https://i.ibb.co/MxYYSXWH/1781361337506.png",
-      "servers": [
-        { "label": "Caze TV", "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8" },
-        { "label": "T-Sports", "url": "http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts" },
-        { "label": "PTV Sports", "url": "https://tvsen5.aynaott.com/PtvSports/index.m3u8" },
-        { "label": "T-Sports 2", "url": "http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123" },
-        { "label": "Bein Sports", "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8" },
-        { "label": "Win Sports", "url": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8" }
-      ]
-    },
-    {
-      "title": "Sweden vs Tunisia",
-      "category": "Football",
-      "time": "2026-06-15T01:30:00",
-      "thumbnail": "https://i.ibb.co/ZzzQCXw8/1781361342953.png",
-      "servers": [
-        { "label": "Caze TV", "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8" },
-        { "label": "T-Sports", "url": "http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts" },
-        { "label": "PTV Sports", "url": "https://tvsen5.aynaott.com/PtvSports/index.m3u8" },
-        { "label": "T-Sports 2", "url": "http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123" },
-        { "label": "Bein Sports", "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8" },
-        { "label": "Win Sports", "url": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8" }
-      ]
-    },
-    {
-      "title": "Spain vs Cape Verde",
-      "category": "Football",
-      "time": "2026-06-15T15:30:00",
-      "thumbnail": "https://i.ibb.co/RkGRtqcr/1781361349165.png",
-      "servers": [
-        { "label": "Caze TV", "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8" },
-        { "label": "T-Sports", "url": "http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts" },
-        { "label": "PTV Sports", "url": "https://tvsen5.aynaott.com/PtvSports/index.m3u8" },
-        { "label": "T-Sports 2", "url": "http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123" },
-        { "label": "Bein Sports", "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8" },
-        { "label": "Win Sports", "url": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8" }
-      ]
-    },
-    {
-      "title": "Belgium vs Egypt",
-      "category": "Football",
-      "time": "2026-06-15T18:30:00",
-      "thumbnail": "https://i.ibb.co/4g50bFyQ/1781361355017.png",
-      "servers": [
-        { "label": "Caze TV", "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8" },
-        { "label": "T-Sports", "url": "http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts" },
-        { "label": "PTV Sports", "url": "https://tvsen5.aynaott.com/PtvSports/index.m3u8" },
-        { "label": "T-Sports 2", "url": "http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123" },
-        { "label": "Bein Sports", "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8" },
-        { "label": "Win Sports", "url": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8" }
-      ]
-    },
-    {
-      "title": "Saudi Arabia vs Uruguay",
-      "category": "Football",
-      "time": "2026-06-15T21:30:00",
-      "thumbnail": "https://i.ibb.co/FqmgSXW3/1781361360424.png",
-      "servers": [
-        { "label": "Caze TV", "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8" },
-        { "label": "T-Sports", "url": "http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts" },
-        { "label": "PTV Sports", "url": "https://tvsen5.aynaott.com/PtvSports/index.m3u8" },
-        { "label": "T-Sports 2", "url": "http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123" },
-        { "label": "Bein Sports", "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8" },
-        { "label": "Win Sports", "url": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8" }
-      ]
-    }
-  ]
+  "schedule": []
 }
